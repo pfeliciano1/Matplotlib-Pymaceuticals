@@ -1,4 +1,12 @@
 # Matplotlib-Pymaceuticals
+# Observations and Insights
+1. The first observation I got from the data was that Mouse g989 had 5 Timepoints repeated, so, that mouse
+had to be dropped to work with clean data.
+2. The second observation I noticed was in the Summary Stats for each drug Regimen for the Tumor Volume, 
+was that Ramicane and Capomulin were the best against the tumors because their mean size was around 40mm3 
+versus the others which are between 51mm3 to 55mm3.
+3. The third observation is that the heavier the mouse, the less effective is the drug Capomulin because 
+the Tumor volume also increases. (see Scatter plot and correlation coefficient)
 
 # Background
 What good is data without a good plot to tell the story?
